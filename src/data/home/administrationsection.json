@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "author": "John Doe",
+      "image": "administrative1.jpg",
+      "degree":"Bsc. Masters",
+      "experience":"10 years"
+
+    },
+    {
+      "id": "2",
+      "author": "John Doe",
+      "image": "administrative2.jpg",
+      "degree":"Bsc. Masters",
+      "experience":"10 years"
+    },
+    {
+      "id": "3",
+      "author": "John Doe",
+      "image": "administrative3.jpg",
+      "degree":"Bsc Masters",
+      "experience":"10 years"
+    },
+    {
+      "id": "4",
+      "author": "John Doe",
+      "image": "administrative4.jpg",
+      "degree":"Bsc Masters",
+      "experience":"10 years"
+    }
+    
+  ]
+  
